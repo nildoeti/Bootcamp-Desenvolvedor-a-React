@@ -1,0 +1,10 @@
+.article__header {
+    border: 1px dashed   darkblue;
+    padding: 10px;
+}
+
+.article__header_p {
+    border: 5px solid maroon;
+    margin: 10px;
+    padding: 10px;
+}
