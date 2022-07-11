@@ -1,0 +1,27 @@
+.all-browsers {
+    background-color: papayawhip;
+    margin: 0;
+    padding: 5px;
+}
+
+.all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+}
+
+.browser {
+    background: white;
+}
+
+.browser > h2, p {
+    font-size: 90%;
+    margin: 4px;
+
+}   
+
+footer {
+    color: white;
+    background-color: rgb(129, 158, 158);
+    padding: 3px;
+    text-align: center;
+}
