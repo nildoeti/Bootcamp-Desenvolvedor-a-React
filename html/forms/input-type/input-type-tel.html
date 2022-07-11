@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Input type Tel</h2>
+    <form action="page.php">
+        <fieldset>
+            <legend>Tel field</legend>
+            <label for="phone">Enter your phone number:</label>
+            <input type="tel" id="phone" name="phone" placeholder="011-12345-6789" pattern="[0-9]{3} - [0-9]{5} - [0-9]{4}" required><br><br>
+            <small>Format: 011-12345-6789</small>
+            <input type="submit">
+        </fieldset>
+    </form>
+</body>
+</html>
