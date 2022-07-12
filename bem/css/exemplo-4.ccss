@@ -1,3 +1,11 @@
+/* correct */
+.search-form {}
+.search-form__content {}
+.search-form__input {}
+.search-form__button {}
+
+
+/* incorrect */
 .search-form {}
 .search-form__content {}
 .search-form__content__input {}
