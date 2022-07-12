@@ -1,0 +1,4 @@
+.static {
+    border: 1px dashed #333;
+    position: static;
+}
