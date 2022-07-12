@@ -1,0 +1,21 @@
+.contianer {
+    position: relative;
+}
+
+.container__img {
+    height: auto;
+    opacity: 0.3;;
+    width: 100%;
+}
+
+.topleft {
+    font-size: 18px;
+    left: 16px;
+    position: absolute;
+    top: 8px;
+}
+
+.container__img-lg   {
+    height: 300px;
+    width: 1000px;
+}
