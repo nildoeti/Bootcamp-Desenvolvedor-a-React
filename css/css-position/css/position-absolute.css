@@ -1,0 +1,16 @@
+.relative {
+    border: 1px solid seagreen;
+    height: 200px;
+    position: absolute;
+    width: 400px;
+}
+
+.absolute {
+    border: 1px solid black;
+    height: 100px;
+    right: 0;
+    margin-right: 10px;
+    position: absolute ;
+    top: 80px;
+    width: 200px;
+}
