@@ -1,0 +1,9 @@
+body {
+    background-image: url("../img/img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right  top;
+    border: 1px solid #333;
+    margin-right: 200px;
+    /* padding-right: 50px; */
+}
+
