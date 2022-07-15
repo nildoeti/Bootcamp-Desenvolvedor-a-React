@@ -1,0 +1,7 @@
+body {
+    background-image: url("../img/img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    margin-right: 200px;
+}
